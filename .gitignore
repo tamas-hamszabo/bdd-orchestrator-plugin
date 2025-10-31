@@ -22,5 +22,8 @@ test-output/
 # Personal settings
 settings.local.json
 
+# Claude Code
+.claude/
+
 # Node modules (if any scripts added)
 node_modules/

@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Local testing
+test-output/
+.test-*
+
+# Personal settings
+settings.local.json
+
+# Node modules (if any scripts added)
+node_modules/

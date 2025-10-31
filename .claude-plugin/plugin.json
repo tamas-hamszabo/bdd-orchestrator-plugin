@@ -1,0 +1,67 @@
+{
+  "name": "bdd-orchestrator",
+  "displayName": "BDD Workflow Orchestrator",
+  "description": "Comprehensive BDD workflow orchestration framework with 12 specialized agents, 11 skills, and 7 automated workflows for systematic feature development, testing, and quality validation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tamas Ham-Szabo"
+  },
+  "homepage": "https://github.com/tamas-hamszabo/bdd-orchestrator-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamas-hamszabo/bdd-orchestrator-plugin.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bdd",
+    "workflow",
+    "orchestration",
+    "agents",
+    "testing",
+    "quality",
+    "architecture",
+    "feature-development",
+    "claude-code",
+    "ai-agents"
+  ],
+  "claude": {
+    "minVersion": "0.1.0"
+  },
+  "components": {
+    "agents": [
+      "architect",
+      "code-reviewer",
+      "implementation",
+      "tester",
+      "feature-generator",
+      "code-researcher",
+      "agent-qa",
+      "memorizing-feedback",
+      "research",
+      "root-cause-analysis",
+      "ac-review",
+      "claude-setup"
+    ],
+    "skills": [
+      "code-research",
+      "architectural-thinking",
+      "surgical",
+      "critical-thinking",
+      "data-flow-tracing",
+      "agent-reporting",
+      "qa-feedback-loop",
+      "parallel",
+      "checkpoint-resume",
+      "best-practices"
+    ],
+    "workflows": [
+      "new-feature",
+      "bug-fix",
+      "create-plan",
+      "find-bug",
+      "single-agent",
+      "story-tester",
+      "question"
+    ]
+  }
+}

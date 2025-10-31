@@ -1,0 +1,12 @@
+{
+  "name": "BDD Orchestrator Marketplace",
+  "description": "Professional BDD workflow orchestration for development teams",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "bdd-orchestrator",
+      "source": ".",
+      "version": "1.0.0"
+    }
+  ]
+}
